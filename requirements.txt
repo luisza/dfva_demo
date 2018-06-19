@@ -1,0 +1,12 @@
+django<2.0
+easy-thumbnails==2.4.1
+django-crispy-forms==1.6.1
+django-cruds-adminlte==0.0.9
+django-filter==1.0.2
+django-image-cropping==1.0.4
+Django-Select2==5.9.0
+djangoajax==2.3.7
+requests==2.13.0
+pycrypto==2.6.1
+pycryptodome==3.6.1
+dateutils==0.6.6
